@@ -1,0 +1,72 @@
+
+.containertitleTitle {
+  zoom: 70%;
+  justify-content: center;
+  display: grid;
+
+}
+
+.containerHomePage {
+
+  zoom: 60%;
+  display: flex;
+  justify-content: center;
+}
+
+.containerTitle {
+  justify-content: center;
+  display: grid;
+}
+
+.containerInstructions {
+  content: width-the-device
+  width:auto;
+justify-content: center;
+display: grid;
+zoom: 100%
+
+}
+
+
+h2 {
+  content: width-the-device
+width: 500px;
+  border: 40px
+  padding: 60px;
+  margin: 60px;
+display: grid;
+font-family: 'VT323', monospace;
+
+font-variant: normal;
+font-weight: lighter;
+text-align: justify;
+font-size: 110%;
+text box-sizing: 50%
+text-rendering: optimizeLegibility;
+
+
+}
+
+h1 {
+  content: width-the-device
+  width: 500px;
+    border: 40px
+    padding: 60px;
+    margin: 60px;
+  display: grid;
+  font-family: 'VT323', monospace;
+
+  font-variant: normal;
+  font-weight: lighter;
+  text-align: justify;
+  font-size: 110%;
+  text box-sizing: 10%;
+text-rendering: optimizeLegibility;
+
+
+
+
+
+
+
+}
